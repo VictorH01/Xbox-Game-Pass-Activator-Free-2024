@@ -1,3 +1,5 @@
+![Preview Image](OIP.jpg)
+
 EthMiner-2024
 Tip
 
